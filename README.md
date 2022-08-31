@@ -1,2 +1,2 @@
 # babu
-welcome to github command
+text report for git command
